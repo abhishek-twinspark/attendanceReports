@@ -35,12 +35,12 @@
                         <table cellpadding="0" cellspacing="0">
                             <thead>
                                 <tr>
-                                    <th scope="col">S. No.</th>
+                                    <th scope="col" style="width:70px;">S. No.</th>
                                     <th scope="col">Name</th>
-                                    <th scope="col">Full Days</th>
-                                    <th scope="col">Half Days</th>
-                                    <th scope="col">Absent Days</th>
-                                    <th scope="col">Working Days</th>
+                                    <th scope="col" style="width:100px;">Full Days</th>
+                                    <th scope="col" style="width:100px;">Half Days</th>
+                                    <th scope="col" style="width:100px;">Absent Days</th>
+                                    <th scope="col" style="width:100px;">Working Days</th>
                                    
                                 </tr>
                             </thead>
